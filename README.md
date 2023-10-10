@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @margins-ai
-
+Margins Ai is an AI-powered price intelligence solution that enables ecommerce sellers to increase their profit margins, sales volumes and revenues.
 
 <!---
 margins-ai/margins-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
